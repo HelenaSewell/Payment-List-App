@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Payment Database App</string>
+    <string name="title_activity_history_list">HistoryListActivity</string>
+</resources>
